@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minecraft Mods & Seeds</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #2c2f33; color: #fff; margin: 0; }
+    header { background: #23272a; padding: 20px; text-align: center; }
+    nav a { margin: 0 15px; color: #00ff88; text-decoration: none; font-weight: bold; }
+    .container { padding: 20px; }
+    .card { background: #3a3d42; padding: 15px; margin: 15px 0; border-radius: 8px; }
+    .card img { width: 100%; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🌍 Minecraft Mods & Seeds</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="mods.html">Mods</a>
+      <a href="seeds.html">Seeds</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <h2>Welcome!</h2>
+    <p>Find the best Minecraft mods and world seeds, all in one place.</p>
+
+    <div class="card">
+      <h3>🔥 Featured Mod</h3>
+      <p><b>BetterCaves</b> – Adds massive underground cave systems.</p>
+      <a href="mods.html">See More Mods →</a>
+    </div>
+
+    <div class="card">
+      <h3>🌱 Featured Seed</h3>
+      <p>Seed <b>123456789</b> – Spawns near a village with diamonds nearby.</p>
+      <a href="seeds.html">See More Seeds →</a>
+    </div>
+  </div>
+</body>
+</html>
